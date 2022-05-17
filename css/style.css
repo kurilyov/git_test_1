@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #333;
+    color: white;
+}
+
+h1 {
+    font-size: 64px;
+    font-weight: 900;
+}
+
+h3 {
+    font-weight: 600;
+}
+
+.test {
+    text-align: center;
+}
+
+.image {
+    width: 400px;
+    margin-bottom: 128px;
+}
